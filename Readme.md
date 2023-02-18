@@ -1,4 +1,4 @@
-# Chat application with React.js, Node.js & Socket.io
+# Blog application with React.js, Node.js
 
 ## What technologies are we using?
 
